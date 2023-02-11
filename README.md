@@ -12,11 +12,13 @@ BaaaarkingDog(https://blog.encrypted.gg/) 님의 실전 알고리즘 강의 정�
 
 ## 0x02-기초 코드 작성 요령 II
 [기본문제 풀이] : **완료**:tada:  
+[응용문제 풀이] : **완료**:tada:  
 
 [Check-Point]
 
 ## 0x03-배열
-[기본문제 풀이] : **완료**:tada:   
+[기본문제 풀이] : **완료**:tada:  
+[응용문제 풀이] : **완료**:tada:  
 
 [Check-Point]
 1. 두 수의 합(3273) 과 같이 양 방향으로 index 를 다룰 때, 겹치는 지점 처리 조심하기   
@@ -24,6 +26,7 @@ BaaaarkingDog(https://blog.encrypted.gg/) 님의 실전 알고리즘 강의 정�
 
 ## 0x04-리스트
 [기본문제 풀이] :   
+[응용문제 풀이] :   
 
 [Check-Point]   
 1. 항상 포인터가 처음, 끝으로 이동하게 될 때를 생각해서 잘 처리해주기
