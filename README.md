@@ -1,5 +1,5 @@
 # BaaaarkingDog Algorithm
-BaaaarkingDog 님의 실전 알고리즘 강의(https://baaaaaaaaaaaaaaaaaaaaaaarkingdog.tistory.com/1040)리정리
+BaaaarkingDog 님의 실전 알고리즘 강의(https://baaaaaaaaaaaaaaaaaaaaaaarkingdog.tistory.com/1040)
 
 ## TODO
 1. 메모리 구조 정리
