@@ -1,5 +1,5 @@
-# Algorithm
-Algorithm
+# BaaaarkingDog Algorithm
+BaaaarkingDog Algorithm
 
 ## 0x09-BFS
 [Check-Point]
