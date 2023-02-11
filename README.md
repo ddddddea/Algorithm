@@ -8,6 +8,7 @@ BaaaarkingDog(https://blog.encrypted.gg/) 님의 실전 알고리즘 강의 정�
     - substr
     - stoi
     - c_str   
+4. for + auto 순회
 
 ## 0x02-기초 코드 작성 요령 II
 [기본문제 풀이] : **완료**:tada:  
