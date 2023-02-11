@@ -9,6 +9,10 @@ BaaaarkingDog Algorithm
 [Check-Point]
 1. BFS 응용해서 거리 구하는 방법 Check + Barkingdog 풀이 체화(미로탐색)
 
+## 0x07-덱
+[Check-Point]
+1. Deque 는 [] 을 이용해서 Random Access 가능 
+
 ## 0x0B-재귀
 [Check-Point]
 1. 분할 정복을 통한 곱셈 구현시 overflow 주의, 특히 값이 곱해질 때 바로 Overflow 되는 경우 있음
