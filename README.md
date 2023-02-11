@@ -2,8 +2,12 @@
 BaaaarkingDog Algorithm
 
 ## TODO
-1. Computer Memory Architecture 
-2. 컴퓨터 음수, 소수 표현법
+1. 메모리 구조 정리
+2. 음수, 소수 표현법
+3. C++ string 관련 함수 정리   
+    - substr
+    - stoi
+    - c_str   
 
 ## 0x02-기초 코드 작성 요령 II
 [기본문제 풀이] : **완료**   
