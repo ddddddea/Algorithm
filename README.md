@@ -1,6 +1,10 @@
 # BaaaarkingDog Algorithm
 BaaaarkingDog Algorithm
 
+## TODO
+1. Computer Memory Architecture
+2. 컴퓨터 음수, 소수 표현법
+
 ## 0x09-BFS
 [Check-Point]
 1. BFS 응용해서 거리 구하는 방법 Check + Barkingdog 풀이 체화(미로탐색)
