@@ -12,6 +12,8 @@ BaaaarkingDog Algorithm
 ## 0x0B-재귀
 [Check-Point]
 1. 분할 정복을 통한 곱셈 구현시 overflow 주의, 특히 값이 곱해질 때 바로 Overflow 되는 경우 있음
+2. 재귀적으로 생각 Base Condition 정하고, 함수 Parameter 정의하고, n 일때 잘 된다고 치고 n+1 일때도 잘 되도록 구성
+
 
 ## 0x13-이분탐색
 [Check-Point]
