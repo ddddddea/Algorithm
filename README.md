@@ -1,5 +1,5 @@
 # BaaaarkingDog Algorithm
-BaaaarkingDog(https://blog.encrypted.gg/) 님의 실전 알고리즘 강의리정리
+BaaaarkingDog(https://blog.encrypted.gg/) 님의 실전 알고리즘 강의 정리
 
 ## TODO
 1. 메모리 구조 정리
@@ -10,29 +10,29 @@ BaaaarkingDog(https://blog.encrypted.gg/) 님의 실전 알고리즘 강의리�
     - c_str   
 
 ## 0x02-기초 코드 작성 요령 II
-[기본문제 풀이] : **완료**   
+[기본문제 풀이] : **완료**:tada:  
 
 [Check-Point]
 
 ## 0x03-배열
-[기본문제 풀이] : **완료**   
+[기본문제 풀이] : **완료**:tada:   
 
 [Check-Point]
 1. 두 수의 합(3273) 과 같이 양 방향으로 index 를 다룰 때, 겹치는 지점 처리 조심하기   
    - 배열의 길이가 홀수, 짝수에 따라 중간에서 중복되는 경우
 ## 0x05-스택
-[기본문제 풀이] : **완료**   
+[기본문제 풀이] : **완료**:tada:   
 [응용문제 풀이] : 진행중   
  
 [Check-Point]
 
 ## 0x06-큐
-[기본문제 풀이] : **완료**   
+[기본문제 풀이] : **완료**:tada:   
  
 [Check-Point]
  
 ## 0x07-덱
-[기본문제 풀이] : **완료**   
+[기본문제 풀이] : **완료**:tada:   
 [응용문제 풀이] : 진행중   
  
 [Check-Point]
