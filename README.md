@@ -8,7 +8,11 @@ BaaaarkingDog(https://blog.encrypted.gg/) 님의 실전 알고리즘 강의 정�
     - substr
     - stoi
     - c_str   
-4. for + auto 순회
+4. for + auto 순회   
+5. string = 복사 방식   
+6. iterator 
+7. isdigit 
+8. 
 
 ## 0x02-기초 코드 작성 요령 II
 [Check-Point]
@@ -52,10 +56,25 @@ BaaaarkingDog(https://blog.encrypted.gg/) 님의 실전 알고리즘 강의 정�
 2. 재귀적으로 생각 Base Condition 정하고, 함수 Parameter 정의하고, n 일때 잘 된다고 생각하고 n+1 일때도 잘 되도록 구성
 
 
+## 0x0E-정렬I
+[Check-Point]
+1. 사용자 정의 객체 정렬을 위해서는 아래와 같이 연산자를 오버로딩해주면 됨   
+   **bool operator <(const MY_CLASS &a, const MY_CLASS &b){}**   
+   
+2. 
+
 ## 0x13-이분탐색
 [Check-Point]
 1. lower, upper idx 구할 때,끼워넣어서 정렬이 유지되도록 하는 위치를 구하도록 start, end, mid 를 결정하자
-2. end 가 어디서 시작해야 하는지도 주의, target 이 크기 N의 배열의 최대값보다 큰 경우 N 번째에 넣어야함
+2. end 가 어디서 시작해야 하는지도 주의, target 이 크기 N의 배열의 최대값보다 큰 경우 N 번째에 넣어야함   
+
+## 0x15-해시
+[Check-Point]   
+1. 회사에 있는 사람(7785) Barkingdog 님 풀이 참조   
+   - set 을 vector 에 어떻게 초기화 하는지, 역순으로 정렬하는 법
+2.  나는야 포켓몬 마스터 이다솜(1620) Barkingdog 님 풀이 참조  
+   - isdigit, key 가 int 라면 unordered_map 이 굳이 필요 없음 --> **배열로 대체 가능** 
+   
 
 # 문제집   
 ## 0x03-배열
@@ -90,6 +109,13 @@ BaaaarkingDog(https://blog.encrypted.gg/) 님의 실전 알고리즘 강의 정�
 ## 0x0B-재귀
 [기본문제 풀이] : 진행중      
 [응용문제 풀이] : 진행중   
+## 0x0E-정렬I   
+[기본문제 풀이] : **완료**:tada:         
 ## 0x13-이분탐색
 [기본문제 풀이] : 진행중      
 [응용문제 풀이] : 진행중   
+## 0x15-해시
+[연습문제 풀이] : **완료**:tada:   
+[기본문제 풀이] : 진행중      
+[응용문제 풀이] : 진행중   
+
