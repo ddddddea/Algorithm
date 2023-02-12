@@ -10,6 +10,7 @@ BaaaarkingDog(https://blog.encrypted.gg/) 님의 실전 알고리즘 강의 정�
     - c_str   
 4. for + auto 순회   
 5. string = 복사 방식   
+6. iterator 
 
 ## 0x02-기초 코드 작성 요령 II
 [Check-Point]
@@ -63,7 +64,13 @@ BaaaarkingDog(https://blog.encrypted.gg/) 님의 실전 알고리즘 강의 정�
 ## 0x13-이분탐색
 [Check-Point]
 1. lower, upper idx 구할 때,끼워넣어서 정렬이 유지되도록 하는 위치를 구하도록 start, end, mid 를 결정하자
-2. end 가 어디서 시작해야 하는지도 주의, target 이 크기 N의 배열의 최대값보다 큰 경우 N 번째에 넣어야함
+2. end 가 어디서 시작해야 하는지도 주의, target 이 크기 N의 배열의 최대값보다 큰 경우 N 번째에 넣어야함   
+
+## 0x15-해시
+[Check-Point]   
+1. 회사에 있는 사람(7785) Barkingdog 님 풀이 참조   
+   (set 을 vector 에 어떻게 초기화 하는지, 역순으로 정렬하는 법)
+2.  
 
 # 문제집   
 ## 0x03-배열
