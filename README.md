@@ -10,7 +10,7 @@ BaaaarkingDog(https://blog.encrypted.gg/) 님의 실전 알고리즘 강의 정�
     - c_str   
 4. for + auto 순회   
 5. string = 복사 방식   
-6. 구조체 정렬을 위한 연산자 
+6. 구조체 정렬을 위한 연산자 오버로딩
 
 ## 0x02-기초 코드 작성 요령 II
 [Check-Point]
