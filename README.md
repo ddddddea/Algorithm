@@ -11,6 +11,8 @@ BaaaarkingDog(https://blog.encrypted.gg/) 님의 실전 알고리즘 강의 정�
 4. for + auto 순회   
 5. string = 복사 방식   
 6. iterator 
+7. isdigit 
+8. 
 
 ## 0x02-기초 코드 작성 요령 II
 [Check-Point]
@@ -69,8 +71,10 @@ BaaaarkingDog(https://blog.encrypted.gg/) 님의 실전 알고리즘 강의 정�
 ## 0x15-해시
 [Check-Point]   
 1. 회사에 있는 사람(7785) Barkingdog 님 풀이 참조   
-   (set 을 vector 에 어떻게 초기화 하는지, 역순으로 정렬하는 법)
-2.  
+   - set 을 vector 에 어떻게 초기화 하는지, 역순으로 정렬하는 법
+2.  나는야 포켓몬 마스터 이다솜(1620) Barkingdog 님 풀이 참조  
+   - isdigit, key 가 int 라면 unordered_map 이 굳이 필요 없음 --> **배열로 대체 가능** 
+   
 
 # 문제집   
 ## 0x03-배열
@@ -110,3 +114,8 @@ BaaaarkingDog(https://blog.encrypted.gg/) 님의 실전 알고리즘 강의 정�
 ## 0x13-이분탐색
 [기본문제 풀이] : 진행중      
 [응용문제 풀이] : 진행중   
+## 0x15-해시
+[연습문제 풀이] : **완료**:tada:   
+[기본문제 풀이] : 진행중      
+[응용문제 풀이] : 진행중   
+
