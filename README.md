@@ -10,7 +10,6 @@ BaaaarkingDog(https://blog.encrypted.gg/) 님의 실전 알고리즘 강의 정�
     - c_str   
 4. for + auto 순회   
 5. string = 복사 방식   
-6. 구조체 정렬을 위한 연산자 오버로딩
 
 ## 0x02-기초 코드 작성 요령 II
 [Check-Point]
@@ -53,6 +52,13 @@ BaaaarkingDog(https://blog.encrypted.gg/) 님의 실전 알고리즘 강의 정�
 1. 분할 정복을 통한 곱셈 구현시 overflow 주의, 특히 값이 곱해질 때 바로 Overflow 되는 경우 있음
 2. 재귀적으로 생각 Base Condition 정하고, 함수 Parameter 정의하고, n 일때 잘 된다고 생각하고 n+1 일때도 잘 되도록 구성
 
+
+## 0x0E-정렬I
+[Check-Point]
+1. 사용자 정의 객체 정렬을 위해서는 아래와 같이 연산자를 오버로딩해주면 됨   
+   **bool operator <(const MY_CLASS &a, const MY_CLASS &b){}**   
+   
+2. 
 
 ## 0x13-이분탐색
 [Check-Point]
