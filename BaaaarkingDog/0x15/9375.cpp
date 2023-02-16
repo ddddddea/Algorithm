@@ -5,27 +5,18 @@ using namespace std;
 int main() {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
-    int T, n;
-    cin >> T;
-    while(T--) {
+    int tc;
+    cin >> tc;
+    while(tc--) {
         unordered_map<string, int> um;
-        unordered_set<string> us;
+        int n, ans = 1;
         cin >> n;
-        int ans = n;
-        while(n--){
+        while(n--) {
             string a, b;
             cin >> a >> b;
-            us.insert(b);
-            if(um.find(b) == um.end()) um[b] = 1;
-            else um[b] += 1;
+            um[b]++;
         }
-        if(us.size() != 1) {
-            int tmp = 1;
-            for(auto i = us.begin(); i != us.end(); i++) {
-                tmp *= um[*i];
-            }
-            ans += tmp;
-        }
-        cout << ans << '\n';
+        for(auto i : um) ans *= i.second + 1;
+        cout << ans - 1 << '\n';
     }
 }

@@ -60,6 +60,5 @@ int main() {
             }
         }
     }
-
     cout << ans << " " << ans2 << '\n';
 }
