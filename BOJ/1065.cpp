@@ -13,7 +13,7 @@ bool myfunc(int n){
     }
     int ad = v[0] - v[1];
     for(int i = 1; i+2 <= (int)v.size(); i++) {
-        if(v[i]-v[i+1] != ad) return false;
+        if(v[i]-v[i+1] != ad) return false; 
     }
     return true;
 }
