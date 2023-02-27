@@ -64,6 +64,10 @@ BaaaarkingDog(https://blog.encrypted.gg/) 님의 실전 알고리즘 강의 정�
    
 2. 
 
+## 0x0E-정렬II
+[Check-Point]
+1. 
+   
 ## 0x13-이분탐색
 [Check-Point]
 1. lower, upper idx 구할 때,끼워넣어서 정렬이 유지되도록 하는 위치를 구하도록 start, end, mid 를 결정하자
