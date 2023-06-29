@@ -4,10 +4,11 @@ using namespace std;
 int ar[110];
 
 void my_swap(int a, int b) {
-    for(int i = 0; i <= b; i++) {
-        int temp = ar[i];
-        ar[i] = 
-    }
+    if(a >= b) return;
+    int temp = ar[a];
+    ar[a] = ar[b];
+    ar[b] = temp;
+    my_swap(a+1, b-1);
 }
 
 int main() {
