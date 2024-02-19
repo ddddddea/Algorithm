@@ -5,12 +5,10 @@ using namespace std;
 int main() {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
-    int n;
-    cin >> n;
-    n-= 4; n /= 4;
-    for(int i = 0; i < n; i++) {
+    int N;
+    cin >> N;
+    for(int i = 0; i < N/4; i++) {
         cout << "long ";
     }
-    cout << "long int" << '\n'; 
-
+    cout << "int" << '\n';
 }

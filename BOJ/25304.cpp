@@ -14,5 +14,4 @@ int main() {
     }
     if(sum == x) cout << "Yes" << '\n';
     else cout << "No" << '\n';
-
 }

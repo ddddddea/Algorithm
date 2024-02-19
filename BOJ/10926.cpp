@@ -7,6 +7,5 @@ int main() {
     cin.tie(NULL);
     string str;
     cin >> str;
-    cout << str.append("??!") << '\n';
-
+    cout << str + "??!" << '\n';
 }
